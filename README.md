@@ -29,7 +29,7 @@ This program is to be run using Streamlit. Pandas, DataClasses, Typing, Streamli
 
 Use terminal to open the program. Do this by entering "streamlit run pychain.py" from the parent directory. Input values for User, Receiver, and Amount. Hit the button to create a new block and record the transaction. Then check to see if the block is valid using the "Validate" button. See example screenshot below:
 
-!['Streamlit Screen Shot'](https://github.com/timtennyson/pychain_ledger/Screenshot%202022-06-19%20145845.png)
+!['Streamlit Screen Shot'](https://github.com/timtennyson/pychain_ledger/blob/main/Screenshot%202022-06-19%20145845.png)
 
 
 ## Contributors
